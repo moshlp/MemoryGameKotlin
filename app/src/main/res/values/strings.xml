@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MEMORY GAME</string>
+    <string name="_3x4">3 x 4</string>
+    <string name="_5x2">5 x 2</string>
+    <string name="_4x4">4 x 4</string>
+    <string name="_4x5">4 x 5</string>
+    <string name="cardfront">cardfront</string>
+    <string name="cardback">cardback</string>
+    <string name="back">back</string>
+    <string name="memory_game">MEMORY GAME</string>
+    <string name="choose_the_size">Choose the size of the game:</string>
+</resources>
